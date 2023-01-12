@@ -5,7 +5,7 @@ We strongly encourage and gladly welcome new people to participate, from any bac
 
 The HPC Hallway resulted from the weekly #HPCHuddles started by Andrew Jones [@hpcnotes](https://twitter.com/hpcnotes) on Twitter in March 2020. It was converted to be the primary series of weekly video and audio meeting discussion for he HPC.social community in January 2023. All participants are welcome, as noted above.
 
-### Join our Slack #hpc-hallway channel in the [hpc.social Slack server and/or the Discord](https://hpc.social/projects/chat/), [Mastodon](https://hpc.social/projects/mastodon/), or [GitHub Discussions](https://github.com/hpc-social/hpc-social.github.io/discussions) at https://hpc.social!
+### Join our Slack #hpc-huddle channel in the [hpc.social Slack server and/or the Discord](https://hpc.social/projects/chat/), [Mastodon](https://hpc.social/projects/mastodon/), or [GitHub Discussions](https://github.com/hpc-social/hpc-social.github.io/discussions) at https://hpc.social!
 
 *(If you have difficulty, open an issue or discussion on the https://github.com/hpc-social/The-Hallway repository to let us know!)*
 
